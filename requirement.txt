@@ -1,0 +1,3 @@
+numpt
+pandas
+streamlit
